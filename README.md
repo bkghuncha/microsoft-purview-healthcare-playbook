@@ -22,4 +22,4 @@ This blueprint bridges the gap between strict HIPAA/HITRUST compliance requireme
 ## Author
 **Bakhtawar Ghuncha**
 *Microsoft Security Architect @ Ghunchas Healthcare AI*
-[LinkedIn](YOUR_LINKEDIN_URL) | [Company Website](https://www.ghunchas-aicentre.edu.pk)
+[LinkedIn](https://linkedin.com/in/bakhtawar-ghunchas) | [Company Website](https://www.ghunchas-aicentre.edu.pk)
