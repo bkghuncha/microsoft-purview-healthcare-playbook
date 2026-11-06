@@ -17,7 +17,7 @@ This blueprint bridges the gap between strict HIPAA/HITRUST compliance requireme
 9. **eDiscovery:** Legal holds, KQL searches, and Chain of Custody exports.
 
 ## Download the Playbook
-👉 **Microsoft Purview & Defender Implementation Playbook Final.pdf** 
+👉 https://github.com/bkghuncha/microsoft-purview-healthcare-playbook/blob/main/Microsoft%20Purview%20%26%20Defender%20Implementation%20Playbook%20Final.pdf 
 
 ## Author
 **Bakhtawar Ghuncha**
