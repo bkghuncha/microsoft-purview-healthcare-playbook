@@ -19,10 +19,8 @@ This blueprint bridges the gap between strict HIPAA/HITRUST compliance requireme
 ## Download the Playbook
 👉 https://github.com/bkghuncha/microsoft-purview-healthcare-playbook/blob/main/Microsoft%20Purview%20%26%20Defender%20Implementation%20Playbook%20Final.pdf 
 
-## 🎥 Project Demo
-<video src="https://www.youtube.com/watch?v=dms1deljXss" controls="controls" style="max-width: 100%;">
-  Your browser does not support the video tag.
-</video>
+## 🎥 Video Walkthrough
+👉 [Watch the Implementation Walkthrough Video](https://www.youtube.com/watch?v=dms1deljXss)
 
 ## Author
 **Bakhtawar Ghuncha**
